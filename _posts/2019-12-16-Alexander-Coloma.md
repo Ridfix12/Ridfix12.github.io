@@ -11,6 +11,7 @@ Este se conforma de muchas maneras porque aprendi varias cosas que yo savia, per
 
 Una de las cosas qur mas me llamo la atencion fue esto de poder crear paguinas web, de forma gratuita  cosa que nunca yo havia investigado sobre esta siempre me han llamado la atencion la creacion de sitios web profesionales, y a la vez aprender mas de ellas ya que la unica que yo conocia era con el leguaje en html pero despues de todo resulta que hay varios lenguajes que me gustaria aprender ya que me llaman la curuiosidad de aprender a manejar estos lenguajes de forma que no se me dificulte y poder crear paginas web de forma rapida.
 
+
 ## seccion 2
 
 Aprendi que hay varias metodologuias diferentes cada una con su proposito hacele la vida al desarrolladorn mas facil lo que me parece estupendo, ya que hace de esta forma el desarrollador tiene mejor flexibilidad para poder trabajar a gusto.
