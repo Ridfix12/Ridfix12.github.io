@@ -8,6 +8,7 @@ title: RESUMEN INTRODUCCION A SOTFWARE
 
 Este se conforma de muchas maneras porque aprendi varias cosas que yo savia, pero vivia un poco alejado sobre las tendencias de ella aprendi mas sobre los desarrolladores, metodologuias , formas que a un informatico le hacen trabajar de una forma que nose complique tanto la cabeza en el momento de desarrollar una web.
 
+[logo]: https://github.com/Ridfix12/Ridfix12.github.io/blob/master/images/mejores-lenguajes-de-programacion-2018-1080x675.jpg "lenguaje de programacion"
 
 Una de las cosas qur mas me llamo la atencion fue esto de poder crear paguinas web, de forma gratuita  cosa que nunca yo havia investigado sobre esta siempre me han llamado la atencion la creacion de sitios web profesionales, y a la vez aprender mas de ellas ya que la unica que yo conocia era con el leguaje en html pero despues de todo resulta que hay varios lenguajes que me gustaria aprender ya que me llaman la curuiosidad de aprender a manejar estos lenguajes de forma que no se me dificulte y poder crear paginas web de forma rapida.
 
