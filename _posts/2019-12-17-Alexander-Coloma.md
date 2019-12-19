@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 tittle: inicio de clases
 ---
 # sdfgsdgsdsdj
