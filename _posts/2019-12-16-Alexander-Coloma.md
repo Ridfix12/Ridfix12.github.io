@@ -2,8 +2,6 @@
 layout: post
 title: bienvenido a mi paguina web
 ---
-
-# Se bienvenido a mi paguina web.
 ## Introduccion
 ### Tema: Informacion sobre introduccion a software en la univiersidad de guayaquil.
 
