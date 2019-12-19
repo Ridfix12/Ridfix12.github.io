@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mini biografia
-permalink: /biografia/
+permalink: /about/
 ---
 #### Mas informacion
 
