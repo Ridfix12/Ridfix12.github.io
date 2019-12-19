@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Breve resumen de mi vida.
-permalink: /about/
+title: Mini biografia
+permalink: /biografia/
 ---
-
 #### Mas informacion
 
 Mi nombre es Alexander Coloma tengo 18 años de edad naci en babahoyo, provincia de los rios el 24/07/2001 ,mi tiempo libre lo paso escuchando, viendo batallas de freestyles son como mi musica, no practico ninguna clase de deporte pero me gusta todo lo que tenga que ver con hacer fuerza me llama la atencion, pues me caracterizo de las personas que si quiere algo se lo propone a complirlo me gusta ser complido, cuaando ago una promesa la cumplo.
